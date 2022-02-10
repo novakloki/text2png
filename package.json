@@ -33,7 +33,7 @@
     "LICENSE"
   ],
   "dependencies": {
-    "canvas": "^2.6.0",
+    "canvas": "github:novakloki/node-canvas",
     "commander": "^3.0.1"
   },
   "devDependencies": {
